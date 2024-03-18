@@ -8,4 +8,5 @@ The dataset has two files of chest x-ray images of the infected and healthy pers
 	Inception-V3
 #### Accuracy Obtained.
 Training accuracy: 98.5% 
+
 Validation accuracy: 99.63%
