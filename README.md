@@ -5,7 +5,7 @@ The study is proposed because the serious impact of the disease is still prevale
 ## Dataset Description
 The dataset has two files of chest x-ray images of the infected and healthy persons in .jpg,.png,.jpeg formats. 
 ## Model used.
-	Inception-V3
+-	Inception-V3
 #### Accuracy Obtained.
 Training accuracy: 98.5% 
 
